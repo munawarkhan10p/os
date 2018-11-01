@@ -1,0 +1,2 @@
+# os
+for spring hibernate 
